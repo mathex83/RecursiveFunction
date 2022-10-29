@@ -1,0 +1,196 @@
+﻿[
+  {
+    "Id": 1,
+    "Pid": null,
+    "Name": "1",
+    "SubList": [
+      {
+        "Id": 2,
+        "Pid": 1,
+        "Name": "1.1",
+        "SubList": [
+          {
+            "Id": 3,
+            "Pid": 2,
+            "Name": "1.1.1",
+            "SubList": [
+              {
+                "Id": 4,
+                "Pid": 3,
+                "Name": "1.1.1.1",
+                "SubList": []
+              },
+              {
+                "Id": 5,
+                "Pid": 3,
+                "Name": "1.1.1.2",
+                "SubList": []
+              }
+            ]
+          },
+          {
+            "Id": 6,
+            "Pid": 2,
+            "Name": "1.1.2",
+            "SubList": [
+              {
+                "Id": 7,
+                "Pid": 6,
+                "Name": "1.1.2.1",
+                "SubList": []
+              },
+              {
+                "Id": 8,
+                "Pid": 6,
+                "Name": "1.1.2.2",
+                "SubList": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Id": 9,
+        "Pid": 1,
+        "Name": "1.2",
+        "SubList": [
+          {
+            "Id": 10,
+            "Pid": 9,
+            "Name": "1.2.1",
+            "SubList": [
+              {
+                "Id": 11,
+                "Pid": 10,
+                "Name": "1.2.1.1",
+                "SubList": []
+              },
+              {
+                "Id": 12,
+                "Pid": 10,
+                "Name": "1.2.1.2",
+                "SubList": []
+              }
+            ]
+          },
+          {
+            "Id": 13,
+            "Pid": 9,
+            "Name": "1.2.2",
+            "SubList": [
+              {
+                "Id": 14,
+                "Pid": 13,
+                "Name": "1.2.2.1",
+                "SubList": []
+              },
+              {
+                "Id": 15,
+                "Pid": 13,
+                "Name": "1.2.2.2",
+                "SubList": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Pid": null,
+    "Name": "2",
+    "SubList": [
+      {
+        "Id": 17,
+        "Pid": 16,
+        "Name": "2.1",
+        "SubList": [
+          {
+            "Id": 18,
+            "Pid": 17,
+            "Name": "2.1.1",
+            "SubList": [
+              {
+                "Id": 19,
+                "Pid": 18,
+                "Name": "2.1.1.1",
+                "SubList": []
+              },
+              {
+                "Id": 20,
+                "Pid": 18,
+                "Name": "2.1.1.2",
+                "SubList": []
+              }
+            ]
+          },
+          {
+            "Id": 21,
+            "Pid": 17,
+            "Name": "2.1.2",
+            "SubList": [
+              {
+                "Id": 22,
+                "Pid": 21,
+                "Name": "2.1.2.1",
+                "SubList": []
+              },
+              {
+                "Id": 23,
+                "Pid": 21,
+                "Name": "2.1.2.2",
+                "SubList": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Id": 24,
+        "Pid": 16,
+        "Name": "2.2",
+        "SubList": [
+          {
+            "Id": 25,
+            "Pid": 24,
+            "Name": "2.2.1",
+            "SubList": [
+              {
+                "Id": 26,
+                "Pid": 25,
+                "Name": "2.2.1.1",
+                "SubList": []
+              },
+              {
+                "Id": 27,
+                "Pid": 25,
+                "Name": "2.2.1.2",
+                "SubList": []
+              }
+            ]
+          },
+          {
+            "Id": 28,
+            "Pid": 24,
+            "Name": "2.2.2",
+            "SubList": [
+              {
+                "Id": 29,
+                "Pid": 28,
+                "Name": "2.2.2.1",
+                "SubList": []
+              },
+              {
+                "Id": 30,
+                "Pid": 28,
+                "Name": "2.2.2.2",
+                "SubList": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
